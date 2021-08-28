@@ -1,0 +1,9 @@
+dependencies:
+- name: app-hello
+  repository: file://../app-hello
+  version: 0.1.0
+- name: app-world
+  repository: file://../app-world
+  version: 0.1.0
+digest: sha256:e631ba8a1677b89774bfb878b424b0b44595c0e1b696cad2196462b33faf2490
+generated: "2021-08-28T14:28:17.023892+01:00"

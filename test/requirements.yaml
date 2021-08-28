@@ -1,10 +1,4 @@
 dependencies:
-  - name: traefik
-    version: 0.1.0
-    repository: "file://../traefik-helm-chart"
-  - name: traefik
-    version: 0.1.0
-    repository: "file://../traefik-helm-chart"
   - name: app-hello
     version: 0.1.0
     repository: "file://../app-hello"
